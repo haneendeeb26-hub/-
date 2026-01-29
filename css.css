@@ -1,0 +1,19 @@
+
+   p{
+      font-family: Tahoma, sans-serif;
+      background-color: #f8f9fa;
+      padding: 20px;
+      line-height: 1.8;
+      color: #e02a2a;
+    }
+    h1, h2, h3 {
+      color: #ddeeff;
+    }
+    ul {
+      list-style-type: square;
+    }
+    video {
+      display: block;
+      margin: 20px auto;
+    }
+ 
